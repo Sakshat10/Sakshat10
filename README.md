@@ -1,4 +1,4 @@
-<h2 align="left">Hello Sakshat! 🌟 As a dedicated individual, I'm enthusiastically pursuing the path of a full-stack web developer, driven by an unwavering passion for creating impactful digital experiences. My journey is infused with a deep curiosity for blockchain technology, which I believe holds transformative potential across industries. With a focus on mastering both front-end and back-end skills, I'm poised to craft seamless, user-centric web solutions.</h2>
+<h2 align="left">Hello I'm Sakshat! 🌟 As a dedicated individual, I'm enthusiastically pursuing the path of a full-stack web developer, driven by an unwavering passion for creating impactful digital experiences. My journey is infused with a deep curiosity for blockchain technology, which I believe holds transformative potential across industries. With a focus on mastering both front-end and back-end skills, I'm poised to craft seamless, user-centric web solutions.</h2>
 
 ###
 
