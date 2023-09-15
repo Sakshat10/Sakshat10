@@ -4,8 +4,6 @@
 
 <br clear="both">
 
-<img align="right" src="https://profile-counter.glitch.me/sakshat10/count.svg?"  />
-
 ###
 
 <div align="left">
